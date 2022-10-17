@@ -1,3 +1,14 @@
+## Youtube:
+- https://youtu.be/PyVstm3tiWE
+
+## Links:
+- https://vuejs.org/
+- https://vuejs.org/guide/components/events.html#declaring-emitted-events
+- https://vuejs.org/guide/typescript/composition-api.html#typing-component-emits
+- https://vuejs.org/api/sfc-script-setup.html#defineprops-defineemits
+- https://v3-migration.vuejs.org/breaking-changes/emits-option.html
+- https://v3.nuxtjs.org/
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
